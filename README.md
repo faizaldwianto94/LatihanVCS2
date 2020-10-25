@@ -120,6 +120,6 @@ https://github.com/faizaldwianto94/LatihanVCS2.git
 
 
 
+![hasil](ss4/sss.png)
 
-
-
+#TERIMAKASIH
