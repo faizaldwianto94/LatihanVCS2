@@ -93,30 +93,30 @@ https://github.com/faizaldwianto94/LatihanVCS2.git
 
 * Setelah file README.md diedit, silahkan Simpan file tersebut dengan cara CTRL+S atau File -> Save
 
-* Langkah selanjutnya setelah file disimpan, kita kembali pada App Git Bash (CMD). Ketik pada Git Bash seperti berikut ini :
+* Langkah selanjutnya setelah file disimpan, kita kembali pada App Git Bash (CMD). Ketik pada Git Bash seperti berikut ini : <br>
 
 
-`git add .`
+`git add .` <br>
 
 
-![git add .](ss4/)
+![git add .](ss4/add.png)
+
+* Setelah selesai melakukan git add . langkah berikutnya kita akan melakukan commit. Fungsi commit adalah untuk menyimpan perubahan yang dilakukan, tetapi tidak ada perubahan pada remote repository. Ketik pada App Git Bash seperti berikut ini : <br>
+
+`git commit "Update README.md"` <br>
 
 
+![commit](ss4/commit.png) <br>
+
+* Git commit telah selesai di lakukan. Untuk saat ini akan melakuka Git Push, Git Push berfungsi untuk mengirimkan perubahan file setelah di commit ke remote repository. Silahkan ketik pada App Git Bash seperti berikut : <br>
 
 
+`git push` <br>
 
 
+![push](ss4/push) <br>
 
-
-
-
-
-
-
-
-
-
-
+* Semua proses telah selesai, silahkan kembali ke Web Browser untuk melihat perubahan yang telah di commit dan push dari remote.
 
 
 
