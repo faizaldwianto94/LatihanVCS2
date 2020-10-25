@@ -114,7 +114,7 @@ https://github.com/faizaldwianto94/LatihanVCS2.git
 `git push` <br>
 
 
-![push](ss4/push) <br>
+![push](ss4/push.png) <br>
 
 * Semua proses telah selesai, silahkan kembali ke Web Browser untuk melihat perubahan yang telah di commit dan push dari remote.
 
